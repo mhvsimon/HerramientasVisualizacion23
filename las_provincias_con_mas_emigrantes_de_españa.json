@@ -1,0 +1,441 @@
+﻿{
+    "Url": "www.epdata.es/provincias-mas-emigrantes-espana/517e5e56-a7eb-4977-bd58-3d2a81a06be7",
+    "Respuesta": {
+        "Id": "517e5e56-a7eb-4977-bd58-3d2a81a06be7",
+        "Url": "www.epdata.es/provincias-mas-emigrantes-espana/517e5e56-a7eb-4977-bd58-3d2a81a06be7",
+        "Titulo": "Las provincias con más emigrantes de España",
+        "Subtitulo": "(Número de emigrantes por 1.000 habitantes)",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Emigración a nivel semestral - Número de personas por cada 0 habitantes para total como sexo, total como grupo quinquenal de edad, Total como país de nacionalidad y Córdoba, Vizcaya, Almería, Lugo, Barcelona, Salamanca, Valladolid, Ourense, Jaén, Ciudad Real, Castellón, Palencia, Badajoz, Huelva, Asturias, Cuenca, León, Lleida, Murcia, Valencia, Santa Cruz Tenerife, Málaga, Soria, Navarra, Toledo, Pontevedra, Ceuta, Burgos, Sevilla, Tarragona, Islas Baleares, Huesca, Madrid, Melilla, Cádiz, Teruel, Cantabria, Alicante, Ávila, Cáceres, La Rioja, Álava, Albacete, Granada, Las Palmas, Guipúzcoa , Segovia, A Coruña, Zaragoza, Girona, Guadalajara, Zamora como provincia de origen",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Número de personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Álava",
+                            "Valor": 2.7016537395617926,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Albacete",
+                            "Valor": 2.181761914586342,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Alicante",
+                            "Valor": 6.14079078303747,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Almería",
+                            "Valor": 6.165481864726787,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Ávila",
+                            "Valor": 1.9177927149028213,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Badajoz",
+                            "Valor": 1.139507163151937,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Islas Baleares",
+                            "Valor": 4.281115704504976,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Barcelona",
+                            "Valor": 8.7098110472459,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Burgos",
+                            "Valor": 5.153105886552348,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Cáceres",
+                            "Valor": 1.0792986887944467,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Cádiz",
+                            "Valor": 1.803987829434221,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Castellón",
+                            "Valor": 5.493983232895462,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Ciudad Real",
+                            "Valor": 2.161608285552741,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Córdoba",
+                            "Valor": 0.785673229374149,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "A Coruña",
+                            "Valor": 1.3061088935927458,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Cuenca",
+                            "Valor": 2.615733637831557,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Girona",
+                            "Valor": 6.807554338802287,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Granada",
+                            "Valor": 2.7969095278803815,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Guadalajara",
+                            "Valor": 3.26575350693128,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Guipúzcoa ",
+                            "Valor": 2.9056443508134544,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Huelva",
+                            "Valor": 2.3511089428453484,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Huesca",
+                            "Valor": 4.099245846757501,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Jaén",
+                            "Valor": 0.9298620624308425,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "León",
+                            "Valor": 1.605530455320476,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Lleida",
+                            "Valor": 5.707906193592961,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "La Rioja",
+                            "Valor": 3.067271046733942,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Lugo",
+                            "Valor": 1.5197287299630087,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Madrid",
+                            "Valor": 6.3153559421234435,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Málaga",
+                            "Valor": 7.504838392152487,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Murcia",
+                            "Valor": 4.013094115267097,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Navarra",
+                            "Valor": 3.9975423079548817,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Ourense",
+                            "Valor": 2.0720889616860885,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Asturias",
+                            "Valor": 1.2680946976548197,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Palencia",
+                            "Valor": 1.0995506460654518,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Las Palmas",
+                            "Valor": 2.2391572516013487,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Pontevedra",
+                            "Valor": 1.4444889881577356,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Salamanca",
+                            "Valor": 2.0155053006564176,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Santa Cruz de Tenerife",
+                            "Valor": 5.765115680040631,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Cantabria",
+                            "Valor": 1.7095391944801905,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Segovia",
+                            "Valor": 2.931998439734755,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Sevilla",
+                            "Valor": 2.063687666023316,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Soria",
+                            "Valor": 3.0960794211677602,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Tarragona",
+                            "Valor": 5.677658123871542,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Teruel",
+                            "Valor": 2.629799383875573,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Toledo",
+                            "Valor": 2.993876483149722,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Valencia",
+                            "Valor": 6.558148102238065,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Valladolid",
+                            "Valor": 1.4407162638712394,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Vizcaya",
+                            "Valor": 2.5033497077220135,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Zamora",
+                            "Valor": 0.708738326662855,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Zaragoza",
+                            "Valor": 6.269072644482778,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Ceuta",
+                            "Valor": 1.769418152291154,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Melilla",
+                            "Valor": 4.685472632034216,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
